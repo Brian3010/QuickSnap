@@ -1,7 +1,6 @@
 using System;
 using SwinGameSDK;
 using CardGames.GameLogic;
-using System.IO;
 namespace CardGames
 {
     public class SnapGame
